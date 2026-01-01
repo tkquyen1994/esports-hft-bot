@@ -1,0 +1,26 @@
+# ===========================================
+# Python Dependencies for Esports HFT Bot
+# ===========================================
+
+# Data handling
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Async HTTP requests
+aiohttp>=3.8.0
+websockets>=11.0
+requests>=2.28.0
+
+# Configuration
+python-dotenv>=1.0.0
+
+# Dashboard & Visualization
+plotly>=5.14.0
+dash>=2.10.0
+dash-bootstrap-components>=1.4.0
+
+# Database
+sqlalchemy>=2.0.0
+
+# Rate limiting
+asyncio-throttle>=1.0.0
